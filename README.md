@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Flauntleroy/Flauntleroy/blob/main/Meraban.png width="100%" alt="Mera Void Banner" />
+  <img src="https://github.com/Flauntleroy/Flauntleroy/blob/main/Meraban.png"/>
   
   <br/>
   
@@ -44,11 +44,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flauntleroy&bg_color=0B1216&color=9FBEB8&line=0E7C6B&point=19C7A6&area=true&hide_border=true" width="100%"/>
   
   <br/><br/>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Flauntleroy&show_icons=true&bg_color=0B1216&title_color=19C7A6&text_color=9FBEB8&icon_color=19C7A6&hide_border=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flauntleroy&layout=compact&bg_color=0B1216&title_color=19C7A6&text_color=9FBEB8&icon_color=19C7A6&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-  </p>
+
 </div>
 
 ---
