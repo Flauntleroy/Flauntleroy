@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/Flauntleroy/Flauntleroy/blob/main/Meraban.png width="100%" alt="Mera Void Banner" />
+  
+  <br/>
+  
+  > *"In the void, logic is the only absolute. Silence is the ultimate frequency."*
 
-<!--
-**Flauntleroy/Flauntleroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/Flauntleroy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=19C7A6&center=true&vCenter=true&width=435&lines=System+Architect;Medical+Tech+Developer;Void+Explorer;Mera+Protocol+Initiated..." alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td valign="top">
+      <h3 align="left">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
+        <span style="color:#19C7A6">Tech Arsenal</span>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0B1216?style=for-the-badge&logo=javascript&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Go-0B1216?style=for-the-badge&logo=go&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Node.js-0B1216?style=for-the-badge&logo=nodedotjs&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Bun-0B1216?style=for-the-badge&logo=bun&logoColor=19C7A6" />
+        <br/>
+        <img src="https://img.shields.io/badge/React-0B1216?style=for-the-badge&logo=react&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Next.js-0B1216?style=for-the-badge&logo=nextdotjs&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Laravel-0B1216?style=for-the-badge&logo=laravel&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Electron-0B1216?style=for-the-badge&logo=electron&logoColor=19C7A6" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h3><span style="color:#19C7A6">Activity Log</span></h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flauntleroy&bg_color=0B1216&color=9FBEB8&line=0E7C6B&point=19C7A6&area=true&hide_border=true" width="100%"/>
+  
+  <br/><br/>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Flauntleroy&show_icons=true&bg_color=0B1216&title_color=19C7A6&text_color=9FBEB8&icon_color=19C7A6&hide_border=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flauntleroy&layout=compact&bg_color=0B1216&title_color=19C7A6&text_color=9FBEB8&icon_color=19C7A6&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Flauntleroy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=19C7A6&center=true&vCenter=true&width=435&lines=The+End" alt="Typing SVG" />
+  </a>
+</div>
