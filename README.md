@@ -22,15 +22,13 @@
         <span style="color:#19C7A6">Tech </span>
       </h3>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-0B1216?style=for-the-badge&logo=javascript&logoColor=19C7A6" />
-        <img src="https://img.shields.io/badge/Go-0B1216?style=for-the-badge&logo=go&logoColor=19C7A6" />
-        <img src="https://img.shields.io/badge/Node.js-0B1216?style=for-the-badge&logo=nodedotjs&logoColor=19C7A6" />
-        <img src="https://img.shields.io/badge/Bun-0B1216?style=for-the-badge&logo=bun&logoColor=19C7A6" />
-        <br/>
-        <img src="https://img.shields.io/badge/React-0B1216?style=for-the-badge&logo=react&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/Next.js-0B1216?style=for-the-badge&logo=nextdotjs&logoColor=19C7A6" />
-        <img src="https://img.shields.io/badge/Laravel-0B1216?style=for-the-badge&logo=laravel&logoColor=19C7A6" />
-        <img src="https://img.shields.io/badge/Electron-0B1216?style=for-the-badge&logo=electron&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/React-0B1216?style=for-the-badge&logo=react&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/JavaScript-0B1216?style=for-the-badge&logo=javascript&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/TypeScript-0B1216?style=for-the-badge&logo=typescript&logoColor=19C7A6" />
+        </br>
+        <img src="https://img.shields.io/badge/Git-0B1216?style=for-the-badge&logo=git&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Postman-0B1216?style=for-the-badge&logo=postman&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/Docker-0B1216?style=for-the-badge&logo=docker&logoColor=19C7A6" />
       </p>
     </td>
