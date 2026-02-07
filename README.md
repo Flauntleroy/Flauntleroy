@@ -22,6 +22,7 @@
         <span style="color:#19C7A6">Tech </span>
       </h3>
       <p>
+        <img src="https://img.shields.io/badge/Go-0B1216?style=for-the-badge&logo=go&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/Next.js-0B1216?style=for-the-badge&logo=nextdotjs&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/React-0B1216?style=for-the-badge&logo=react&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/JavaScript-0B1216?style=for-the-badge&logo=javascript&logoColor=19C7A6" />
