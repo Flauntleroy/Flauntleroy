@@ -19,7 +19,7 @@
    <td valign="top">
       <h3 align="left">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
-        <span style="color:#19C7A6">Tech Arsenal</span>
+        <span style="color:#19C7A6">Tech </span>
       </h3>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-0B1216?style=for-the-badge&logo=javascript&logoColor=19C7A6" />
