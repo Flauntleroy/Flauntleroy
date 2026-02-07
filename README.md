@@ -31,6 +31,7 @@
         <img src="https://img.shields.io/badge/Next.js-0B1216?style=for-the-badge&logo=nextdotjs&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/Laravel-0B1216?style=for-the-badge&logo=laravel&logoColor=19C7A6" />
         <img src="https://img.shields.io/badge/Electron-0B1216?style=for-the-badge&logo=electron&logoColor=19C7A6" />
+        <img src="https://img.shields.io/badge/Docker-0B1216?style=for-the-badge&logo=docker&logoColor=19C7A6" />
       </p>
     </td>
   </tr>
